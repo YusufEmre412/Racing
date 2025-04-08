@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\bin\Debug\Horce Race.exe.config
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\bin\Debug\Horce Race.exe
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\bin\Debug\Horce Race.pdb
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\obj\Debug\Horce Race.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\obj\Debug\Horce_Race.Form1.resources
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\obj\Debug\Horce_Race.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\obj\Debug\Horce Race.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\obj\Debug\Horce Race.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\obj\Debug\Horce Race.exe
+C:\Users\yusuf\source\repos\Horce Race\Horce Race\obj\Debug\Horce Race.pdb
